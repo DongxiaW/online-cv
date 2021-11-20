@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: dowu@ucsd.edu
-    website: dongxiaw.github.io #do not add http://
-    linkedin:
+    website:  # dongxiaw.github.io #do not add http://
+    linkedin: dongxia-wu-2021
     xing:
     github: DongxiaW
     telegram: # add your nickname without '@' sign
@@ -51,28 +51,13 @@ career-profile:
       Physics, and Computer Sciences from the [University of Wisconsin-Madison](https://www.wisc.edu/) in 2020. 
       My research interests are in Bayesian Deep Learning, Spatiotemporal Forecasting, and AI for Health.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Ph.D. student in CompSci
+      university: UC San Diego
+      time: 2020 - Present
+    - degree: B.S in Applied Mathematics
+      university: UW-Madison
+      time: 2017 - 2020
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
