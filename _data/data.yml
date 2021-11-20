@@ -163,7 +163,7 @@ publications:
         authors: Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
         conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2021
 
-      - title: DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting
+      - title: "DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting"
         link: "https://arxiv.org/abs/2102.06684"
         authors: Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
         conference: Under review
