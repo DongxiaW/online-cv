@@ -125,25 +125,37 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Accelerating Stochastic Simulation with Interactive Neural Processes
+        link: "https://arxiv.org/abs/2106.02770"
+        authors: Dongxia Wu, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
+        conference: Under review
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Quantifying Uncertainty in Deep Spatiotemporal Forecasting
+        link: "https://arxiv.org/abs/2105.11982"
+        authors: Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
+        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2021
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting
+        link: "https://arxiv.org/abs/2102.06684"
+        authors: Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
+        conference: Under review
+        
+      - title: Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US
+        link: "https://lib.dr.iastate.edu/stat_las_pubs/315/"
+        authors: Estee Cramer, [et al, including Dongxia Wu]
+        conference: medRxiv
+      
+      - title: A deep learning based automatic defect analysis framework for In-situ TEM ion irradiations
+        link: "https://www.sciencedirect.com/science/article/pii/S0927025621002871"
+        authors: Mingren Shen, Guanzhao Li, Dongxia Wu, et al.
+        conference: Computational Materials Science, 2021, 197: 110560.
+        
+      - title: Multi defect detection and analysis of electron microscopy images with deep learning
+        link: "https://www.sciencedirect.com/science/article/pii/S0927025621003037"
+        authors: Mingren Shen, Guanzhao Li, Dongxia Wu, et al.
+        conference: Computational Materials Science, 2021, 199: 110576.
 
 skills:
     title: Skills &amp; Proficiency
