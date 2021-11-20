@@ -27,34 +27,29 @@ sidebar:
     pdf: https://drive.google.com/file/d/1rVxQg_aAqAZvATAhChf5YcCvLVBDkCWh/view?usp=sharing
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+#     interests:
+#       - item: Soccer
+#         link:
 
-    interests:
-      - item: Climbing
-        link:
+#       - item: Snowboarding
+#         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+#       - item: Cooking
+#         link:
 
 career-profile:
-    title: Career Profile
+    title: BIOGRAPHY
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a PhD student at [UC San Diego](https://ucsd.edu/) department of [Computer Science and Engineering](https://cse.ucsd.edu/), 
+      advised by Prof. Rose Yu and Prof. Yian Ma. I received my Bachelor degree of science in Applied Math, 
+      Physics, and Computer Sciences from the [University of Wisconsin-Madison](https://www.wisc.edu/) in 2020. 
+      My research interests are in Bayesian Deep Learning, Spatiotemporal Forecasting, and AI for Health.
 education:
     - degree: MSc in Computer Science
       university: University of London
