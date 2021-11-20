@@ -96,32 +96,58 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Awards/Honors
+    intro: 
+    assignments: 
+      - title: HDSI Ph.D. Fellowship (2021-2024), top 10 in admitted HDSI Ph.D. students
+        link: 
+        tagline: UC San Diego (2021)
+      - title: College of Letters & Science Dean’s List
+        link: 
+        tagline: UW–Madison (2018, 2019)
+      - title: Nextgen Fellowship
+        link: 
+        tagline: Citrine Informatics Inc. (2018)
+      - title: Best Co-op Prize 
+        link: 
+        tagline: Abiomed Inc. (2018)         
+      - title: REU Program Fellowship
+        link: 
+        tagline: NSF (2018)
+      - title: Undergraduate Summer Scholarship
+        link: 
+        tagline: UW-Madison (2018)
+      - title: The First Prize in China Region and the Fourth Prize in the final
+        link: 
+        tagline: The Third Hong Kong International Chamber Music Competition (2016)
 
 publications:
     title: Publications
