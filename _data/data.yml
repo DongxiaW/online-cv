@@ -176,12 +176,12 @@ publications:
       - title: A deep learning based automatic defect analysis framework for In-situ TEM ion irradiations
         link: "https://www.sciencedirect.com/science/article/pii/S0927025621002871"
         authors: Mingren Shen, Guanzhao Li, Dongxia Wu, et al.
-        conference: Computational Materials Science, 2021, 197: 110560.
+        conference: Computational Materials Science
         
       - title: Multi defect detection and analysis of electron microscopy images with deep learning
         link: "https://www.sciencedirect.com/science/article/pii/S0927025621003037"
         authors: Mingren Shen, Guanzhao Li, Dongxia Wu, et al.
-        conference: Computational Materials Science, 2021, 199: 110576.
+        conference: Computational Materials Science
 
 skills:
     title: Skills &amp; Proficiency
