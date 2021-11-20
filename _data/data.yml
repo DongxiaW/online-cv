@@ -53,8 +53,7 @@ experiences:
       time: 2020 - Present
       company: UC San Diego, La Jolla, CA
       details: 
-          - Spearheaded the deep learning uncertainty quantification study for spatiotemporal forecasting, 
-          compared Bayesian and Frequentist methods on traffic and COVID-19 predictions.
+          - Spearheaded the deep learning uncertainty quantification study for spatiotemporal forecasting, compared Bayesian and Frequentist methods on traffic and COVID-19 predictions.
           - Created the DeepGLEAM model, which has been included in the CDC COVID-19 forecasting ensemble.
           - Design a neural process model for COVID-19 predictions to enable counterfactual reasoning.
     - role: Research Assistant, NextGen Fellow
@@ -62,8 +61,7 @@ experiences:
       company: UW-Madison, Madison, WI; Citrine Informatics Inc., Redwood City, CA
       details: |
         Dislocation Loop Analysis on TEM Video with Deep Learning Methods
-          - Created an automatic and superfast dislocation loop detection framework for TEM Video of Fe- CrAl 
-          alloy under in-situ ion irradiation based on the YOLOv3 network.
+          - Created an automatic and superfast dislocation loop detection framework for TEM Video of FeCrAl alloy under in-situ ion irradiation based on the YOLOv3 network.
           - Lead static property analysis for dislocation loops’ geometric information.
 
 # projects:
