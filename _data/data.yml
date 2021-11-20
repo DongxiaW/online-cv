@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -17,13 +17,13 @@ sidebar:
     linkedin: dongxia-wu-2021
     xing:
     github: DongxiaW
-    telegram: # add your nickname without '@' sign
+    telegram: 
     gitlab:
     bitbucket:
     twitter: '@allen_dongxiawu'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 
     pdf: https://drive.google.com/file/d/1rVxQg_aAqAZvATAhChf5YcCvLVBDkCWh/view?usp=sharing
 
     languages:
@@ -32,16 +32,6 @@ sidebar:
 
       - idiom: English
         level: Professional
-
-#     interests:
-#       - item: Soccer
-#         link:
-
-#       - item: Snowboarding
-#         link:
-
-#       - item: Cooking
-#         link:
 
 career-profile:
     title: BIOGRAPHY
@@ -59,43 +49,23 @@ education:
       time: 2017 - 2020
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Assistant
+      time: 2020 - Present
+      company: UC San Diego, La Jolla, CA
+      details: 
+          - Spearheaded the deep learning uncertainty quantification study for spatiotemporal forecasting, 
+          compared Bayesian and Frequentist methods on traffic and COVID-19 predictions.
+          - Created the DeepGLEAM model, which has been included in the CDC COVID-19 forecasting ensemble.
+          - Design a neural process model for COVID-19 predictions to enable counterfactual reasoning.
+    - role: Research Assistant, NextGen Fellow
+      time: 2018 - 2020
+      company: UW-Madison, Madison, WI; Citrine Informatics Inc., Redwood City, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Dislocation Loop Analysis on TEM Video with Deep Learning Methods
+          - Created an automatic and superfast dislocation loop detection framework for TEM Video of Fe- CrAl 
+          alloy under in-situ ion irradiation based on the YOLOv3 network.
+          - Lead static property analysis for dislocation loops’ geometric information.
+
 # projects:
 #     title: Projects
 #     intro: >
@@ -184,23 +154,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & Pytorch
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Tensor Flow & Keras & Matlab %  LaTeX
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Java & Mathematica
         level: 60%
+
+      - name: C & C++ & C#
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
