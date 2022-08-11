@@ -76,19 +76,54 @@ publications:
     title: Publications
     intro: 
     papers:
+      - title: DeepViFi: detecting oncoviral infections in cancer genomes using transformers
+        link: "https://dl.acm.org/doi/abs/10.1145/3535508.3545551"
+        authors: Utkrisht Rajkumar, Sara Javadzadeh, Mihir Bafna, Dongxia Wu, Rose Yu, Jingbo Shang, Vineet Bafna.
+        conference: Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics
+        
+      - title: Multi-fidelity Hierarchical Neural Processes
+        link: "https://arxiv.org/abs/2206.04872"
+        authors: Dongxia Wu, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu.
+        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2022
+        
       - title: Quantifying Uncertainty in Deep Spatiotemporal Forecasting
         link: "https://arxiv.org/abs/2105.11982"
         authors: Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
         conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2021
+        
+      - title: Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the United States
+        link: "https://www.pnas.org/doi/abs/10.1073/pnas.2113561119"
+        authors: Estee Cramer, [et al, including Dongxia Wu]
+        journal: "Proceedings of the National Academy of Sciences, 2022, 119.15: e2113561119."
+        
+      - title: Accelerating Stochastic Simulation with Spatiotemporal Neural Processes
+        link: "https://arxiv.org/abs/2106.02770"
+        authors: Dongxia Wu, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
+        conference: Under review
+      
+      - title: "DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting"
+        link: "https://arxiv.org/abs/2102.06684"
+        authors: Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
+        conference: Under review
+      
+      - title: A deep learning based automatic defect analysis framework for In-situ TEM ion irradiations
+        link: "https://www.sciencedirect.com/science/article/pii/S0927025621002871"
+        authors: Mingren Shen, Guanzhao Li, Dongxia Wu, et al.
+        conference: "Computational Materials Science, 2021, 197: 110560."
+        
+      - title: Multi defect detection and analysis of electron microscopy images with deep learning
+        link: "https://www.sciencedirect.com/science/article/pii/S0927025621003037"
+        authors: Mingren Shen, Guanzhao Li, Dongxia Wu, et al.
+        conference: "Computational Materials Science, 2021, 197: 110560."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Python & Pytorch
         level: 98%
 
-      - name: Matlab &  LaTeX
+      - name: Tensor Flow & Keras & Matlab &  LaTeX
         level: 85%
 
       - name: Java & Mathematica
