@@ -94,7 +94,7 @@ publications:
       - title: Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the United States
         link: "https://www.pnas.org/doi/abs/10.1073/pnas.2113561119"
         authors: Estee Cramer, [et al, including Dongxia Wu]
-        journal: "Proceedings of the National Academy of Sciences, 2022, 119.15: e2113561119."
+        conference: "Proceedings of the National Academy of Sciences, 2022, 119.15: e2113561119."
         
       - title: Accelerating Stochastic Simulation with Spatiotemporal Neural Processes
         link: "https://arxiv.org/abs/2106.02770"
