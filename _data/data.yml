@@ -76,10 +76,10 @@ publications:
     title: Publications
     intro: 
     papers:
-      - title: DeepViFi: detecting oncoviral infections in cancer genomes using transformers
+      - title: "DeepViFi: detecting oncoviral infections in cancer genomes using transformers"
         link: "https://dl.acm.org/doi/abs/10.1145/3535508.3545551"
         authors: Utkrisht Rajkumar, Sara Javadzadeh, Mihir Bafna, Dongxia Wu, Rose Yu, Jingbo Shang, Vineet Bafna.
-        conference: Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics
+        conference: "Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics"
         
       - title: Multi-fidelity Hierarchical Neural Processes
         link: "https://arxiv.org/abs/2206.04872"
