@@ -54,11 +54,6 @@ experiences:
       company: UC San Diego, La Jolla, CA
       details: |
           - Spearheaded the uncertainty quantification study for spatiotemporal forecasting, compared Bayesian and Frequentist methods on traffic and COVID-19 predictions.
-    - role: AI Intern
-      time: June 2022 - September 2022
-      company: IBM Thomas J. Watson Research Center, Yorktown Heights, NY
-      details: |
-          - Spearheaded the causal inference study on multivariate point processes.
         
 projects:
     title: Awards/Honors
