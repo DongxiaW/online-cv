@@ -24,7 +24,7 @@ sidebar:
     stack-overflow: 
     codewars:
     goodreads: 
-    pdf: https://drive.google.com/file/d/1ebMbjL3pVEihbBD2fCCl-kh6-Jc08Omv/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1ef2SPfYldrCO9ZC6tFcy_a1yDM7XCfPl/view?usp=sharing
 
     languages:
       - idiom: Chinese
@@ -39,7 +39,7 @@ career-profile:
       I am a PhD student at [UC San Diego](https://ucsd.edu/) department of [Computer Science and Engineering](https://cse.ucsd.edu/), 
       advised by Prof. Rose Yu and Prof. Yian Ma. I received my Bachelor degree of science in Applied Math, 
       Physics, and Computer Sciences from the [University of Wisconsin-Madison](https://www.wisc.edu/) in 2020. 
-      My research interests are in Bayesian Inference and Spatiotemporal Forecasting.
+      My research interests are in Bayesian Deep Learning, Causal Inference, and Spatiotemporal Forecasting.
 education:
     - degree: Ph.D. student in CompSci
       university: UC San Diego
@@ -49,11 +49,16 @@ education:
       time: 2017 - 2020
 
 experiences:
-    - role: Research Assistant
+     - role: Research Assistant
       time: 2020 - Present
       company: UC San Diego, La Jolla, CA
       details: |
           - Spearheaded the uncertainty quantification study for spatiotemporal forecasting, compared Bayesian and Frequentist methods on traffic and COVID-19 predictions.
+    - role: AI Intern
+      time: June 2022 - September 2022
+      company: IBM Thomas J. Watson Research Center, Yorktown Heights, NY
+      details: |
+          - Spearheaded the causal inference study on multivariate point processes.
         
 projects:
     title: Awards/Honors
