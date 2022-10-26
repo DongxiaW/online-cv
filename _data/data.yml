@@ -49,12 +49,12 @@ education:
       time: 2017 - 2020
 
 experiences:
-     - role: Research Assistant
+    - role: Research Assistant
       time: 2020 - Present
       company: UC San Diego, La Jolla, CA
       details: |
           - Spearheaded the uncertainty quantification study for spatiotemporal forecasting, compared Bayesian and Frequentist methods on traffic and COVID-19 predictions.
-     - role: AI Intern
+    - role: AI Intern
       time: June 2022 - September 2022
       company: IBM Thomas J. Watson Research Center, Yorktown Heights, NY
       details: |
