@@ -39,7 +39,8 @@ career-profile:
       I am a PhD student at [UC San Diego](https://ucsd.edu/) department of [Computer Science and Engineering](https://cse.ucsd.edu/), 
       advised by Prof. Rose Yu and Prof. Yian Ma. I received my Bachelor degree of science in Applied Math, 
       Physics, and Computer Sciences from the [University of Wisconsin-Madison](https://www.wisc.edu/) in 2020. 
-      My research interests are in Bayesian Deep Learning, Causal Inference, and Spatiotemporal Forecasting.
+      My research primarily lies in Bayesian Deep Learning, especially for spatiotemporal data. My works have been applied 
+      to forecasting spatiotemporal systems in epidemiology, healthcare, traffic and climate science.
 education:
     - degree: Ph.D. student in CompSci
       university: UC San Diego
@@ -80,6 +81,16 @@ publications:
     title: Publications
     intro: 
     papers:
+      - title: Deep Bayesian Active Learning for Accelerating Stochastic Simulation
+        link: "https://arxiv.org/abs/2106.02770"
+        authors: Dongxia Wu, Ruijia Niu, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
+        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023
+        
+      - title: Disentangled Multi-Fidelity Deep Bayesian Active Learning
+        link: "https://arxiv.org/abs/2305.04392"
+        authors: Dongxia Wu, Ruijia Niu, Matteo Chinazzi, Yian Ma, Rose Yu.
+        conference: International Conference on Machine Learning (ICML) 2023
+      
       - title: "DeepViFi: detecting oncoviral infections in cancer genomes using transformers"
         link: "https://dl.acm.org/doi/abs/10.1145/3535508.3545551"
         authors: Utkrisht Rajkumar, Sara Javadzadeh, Mihir Bafna, Dongxia Wu, Rose Yu, Jingbo Shang, Vineet Bafna.
@@ -99,11 +110,6 @@ publications:
         link: "https://www.pnas.org/doi/abs/10.1073/pnas.2113561119"
         authors: Estee Cramer, [et al, including Dongxia Wu]
         conference: "Proceedings of the National Academy of Sciences, 2022, 119.15: e2113561119."
-        
-      - title: Accelerating Stochastic Simulation with Spatiotemporal Neural Processes
-        link: "https://arxiv.org/abs/2106.02770"
-        authors: Dongxia Wu, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
-        conference: Under review
       
       - title: "DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting"
         link: "https://arxiv.org/abs/2102.06684"
@@ -119,22 +125,6 @@ publications:
         link: "https://www.sciencedirect.com/science/article/pii/S0927025621003037"
         authors: Mingren Shen, Guanzhao Li, Dongxia Wu, et al.
         conference: "Computational Materials Science, 2021, 197: 110560."
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Pytorch
-        level: 98%
-
-      - name: Tensor Flow & Keras & Matlab &  LaTeX
-        level: 85%
-
-      - name: Java & Mathematica
-        level: 60%
-
-      - name: C & C++ & C#
-        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
