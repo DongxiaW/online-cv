@@ -27,10 +27,8 @@ sidebar:
     pdf: https://drive.google.com/file/d/1WWSxPE6KiM9vIXs6KvQ0stRPVbePvSSv/view?usp=share_link
 
     interests:
-      - idiom: Viola
-        level: Orchestra
-      - idiom: fencing
-        level: Foil
+      - item: Viola (Orchestra)
+      - item: fencing (Foil)
 
 career-profile:
     title: BIOGRAPHY
