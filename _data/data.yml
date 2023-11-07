@@ -24,7 +24,7 @@ sidebar:
     stack-overflow: 
     codewars:
     goodreads: 
-    pdf: https://drive.google.com/file/d/1WWSxPE6KiM9vIXs6KvQ0stRPVbePvSSv/view?usp=share_link
+    pdf: https://drive.google.com/file/d/1tEBE2x5N-k0y6k9-CvX7omfssQSvOUU6/view?usp=sharing
 
     interests:
       - item: Viola (Solo, Quartet, Orchestra)
@@ -52,6 +52,11 @@ experiences:
       company: UC San Diego, La Jolla, CA
       details: |
           - Spearheaded the uncertainty quantification study for spatiotemporal forecasting, compared Bayesian and Frequentist methods on traffic and COVID-19 predictions.
+     - role: Applied Scientist Intern
+      time: June 2023 - September 2023
+      company: Amazon, Seattle, WA
+      details: |
+          - Designed the contextual offer estimation method to understand and model customer preferences.
     - role: AI Intern
       time: June 2022 - September 2022
       company: IBM Thomas J. Watson Research Center, Yorktown Heights, NY
