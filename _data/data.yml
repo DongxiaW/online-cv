@@ -24,7 +24,7 @@ sidebar:
     stack-overflow: 
     codewars:
     goodreads: 
-    pdf: https://drive.google.com/file/d/1tEBE2x5N-k0y6k9-CvX7omfssQSvOUU6/view?usp=sharing
+    pdf: https://drive.google.com/file/d/19e1AIMfOzXpAeeKMaRA350anvRWb3bqr/view?usp=sharing
 
     interests:
       - item: Viola (Solo, Quartet, Orchestra)
@@ -36,7 +36,7 @@ career-profile:
       I am a PhD student at [UC San Diego](https://ucsd.edu/) department of [Computer Science and Engineering](https://cse.ucsd.edu/), 
       advised by Prof. Rose Yu and Prof. Yian Ma. I received my Bachelor degree of science in Applied Math, 
       Physics, and Computer Sciences from the [University of Wisconsin-Madison](https://www.wisc.edu/) in 2020. 
-      My research primarily lies in Bayesian Deep Learning, especially for spatiotemporal data. My works have been applied 
+      My research primarily lies in Uncertainty Quantification, Deep Generative Modeling, Bayesian Deep Learning, and Spatiotemporal Modeling. My works have been applied 
       to forecasting spatiotemporal systems in epidemiology, traffic and climate science.
 education:
     - degree: Ph.D. student in CompSci
@@ -83,6 +83,11 @@ publications:
     title: Publications
     intro: 
     papers:
+      - title: Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes
+        link: "https://arxiv.org/abs/2106.02770"
+        authors: Dongxia Wu, Tsuyoshi Idé, Aurélie Lozano, Georgios Kollias, Jiří Navrátil, Naoki Abe, Yi-An Ma, Rose Yu.
+        conference: International Conference on Artificial Intelligence and Statistics, 2024.
+
       - title: Deep Bayesian Active Learning for Accelerating Stochastic Simulation
         link: "https://arxiv.org/abs/2106.02770"
         authors: Dongxia Wu, Ruijia Niu, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
