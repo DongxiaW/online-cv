@@ -52,6 +52,11 @@ experiences:
       company: UC San Diego, La Jolla, CA
       details: |
           - Spearheaded the uncertainty quantification study for spatiotemporal forecasting, compared Bayesian and Frequentist methods on traffic and COVID-19 predictions.
+    - role: Research Intern
+      time: June 2024 - September 2024
+      company: Samsung Research America, Mountain View, CA
+      details: |
+          - Designed Time Series Foundation Model for Anomaly Detection.
     - role: Applied Scientist Intern
       time: June 2023 - September 2023
       company: Amazon, Seattle, WA
@@ -86,8 +91,13 @@ publications:
       - title: Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes
         link: "https://arxiv.org/abs/2106.02770"
         authors: Dongxia Wu, Tsuyoshi Idé, Aurélie Lozano, Georgios Kollias, Jiří Navrátil, Naoki Abe, Yi-An Ma, Rose Yu.
-        conference: International Conference on Artificial Intelligence and Statistics, 2024.
+        conference: International Conference on Artificial Intelligence and Statistics (AISTATS) 2024
 
+      - title: Multi-Fidelity Residual Neural Processes for Scalable Surrogate Modeling
+        link: "https://arxiv.org/abs/2402.18846"
+        authors: Ruijia Niu, Dongxia Wu, Kai Kim, Yi-An Ma, Duncan Watson-Parris, Rose Yu.
+        conference: International Conference on Machine Learning (ICML) 2024
+        
       - title: Deep Bayesian Active Learning for Accelerating Stochastic Simulation
         link: "https://arxiv.org/abs/2106.02770"
         authors: Dongxia Wu, Ruijia Niu, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
