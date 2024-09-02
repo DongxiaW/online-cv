@@ -37,16 +37,9 @@ career-profile:
       advised by Prof. Rose Yu and Prof. Yian Ma. I received my Bachelor degree of science in Applied Math, 
       Physics, and Computer Sciences from the [University of Wisconsin-Madison](https://www.wisc.edu/) in 2020. 
       My research primarily lies in Uncertainty Quantification, Deep Generative Modeling, Bayesian Deep Learning, and Spatiotemporal Modeling. My works have been applied 
-      to forecasting spatiotemporal systems in epidemiology, traffic and climate science. 
-
-projects:
-    title: Achievements
-    intro:  I designed [DeepGLEAM](https://arxiv.org/abs/2102.06684) for COVID-19 incident death forecasts. It was ranked 1st in CDC forecasting hub.
-    assignments: 
-      - title: Jacobs School of Engineering
-        link: https://jacobsschool.ucsd.edu/news/release?id=3129
-      - title: KPBS Public Media
-        link: https://www.kpbs.org/news/2020/oct/20/ucsd-researchers-build-database-predict-future-cov/#
+      to forecasting spatiotemporal systems in epidemiology, traffic and climate science. I designed [DeepGLEAM](https://arxiv.org/abs/2102.06684) for COVID-19 incident death forecasts. 
+      It was ranked 1st for coverage in CDC forecasting hub. My work has been featured in [KPBS] (https://www.kpbs.org/news/2020/oct/20/ucsd-researchers-build-database-predict-future-cov/#) and 
+      [Jacobs School of Engineering](https://jacobsschool.ucsd.edu/news/release?id=3129).
         
 education:
     - degree: Ph.D. student in CompSci
