@@ -131,7 +131,7 @@ publications:
       - title: "DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting"
         link: "https://arxiv.org/abs/2102.06684"
         authors: Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
-        conference: Under review
+        conference: https://arxiv.org/abs/2102.06684
       
       - title: A deep learning based automatic defect analysis framework for In-situ TEM ion irradiations
         link: "https://www.sciencedirect.com/science/article/pii/S0927025621002871"
