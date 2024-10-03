@@ -36,7 +36,7 @@ career-profile:
       I am a PhD student at [UC San Diego](https://ucsd.edu/) department of [Computer Science and Engineering](https://cse.ucsd.edu/), 
       advised by Prof. Rose Yu and Prof. Yian Ma. I received my Bachelor degree of science in Applied Math, 
       Physics, and Computer Sciences from the [University of Wisconsin-Madison](https://www.wisc.edu/) in 2020. 
-      My research primarily lies in Uncertainty Quantification, Deep Generative Modeling, Bayesian Deep Learning, and Spatiotemporal Modeling. My works have been applied 
+      My research primarily lies in Uncertainty Quantification, Bayesian Deep Learning, Spatiotemporal Modeling, Deep Generative Modeling, and Computational Epidemiology. My works have been applied 
       to forecasting spatiotemporal systems in epidemiology, traffic and climate science. I designed [DeepGLEAM](https://arxiv.org/abs/2102.06684) for COVID-19 incident death forecasts. 
       It was ranked 1st for coverage in CDC forecasting hub and featured in [KPBS](https://www.kpbs.org/news/2020/oct/20/ucsd-researchers-build-database-predict-future-cov/#) and 
       [Jacobs School of Engineering](https://jacobsschool.ucsd.edu/news/release?id=3129).
@@ -91,6 +91,11 @@ publications:
     title: Publications
     intro: 
     papers:
+      - title: Diff-BBO: Diffusion-Based Inverse Modeling for Black-Box Optimization
+        link: "https://arxiv.org/abs/2407.00610"
+        authors: Dongxia Wu, Nikki Lijing Kuang, Ruijia Niu, Yi-An Ma, Rose Yu.
+        conference: arXiv preprint 2024
+        
       - title: Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes
         link: "https://arxiv.org/abs/2106.02770"
         authors: Dongxia Wu, Tsuyoshi Idé, Aurélie Lozano, Georgios Kollias, Jiří Navrátil, Naoki Abe, Yi-An Ma, Rose Yu.
