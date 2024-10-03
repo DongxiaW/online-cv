@@ -91,11 +91,6 @@ publications:
     title: Publications
     intro: 
     papers:
-      - title: Diff-BBO: Diffusion-Based Inverse Modeling for Black-Box Optimization
-        link: "https://arxiv.org/abs/2407.00610"
-        authors: Dongxia Wu, Nikki Lijing Kuang, Ruijia Niu, Yi-An Ma, Rose Yu.
-        conference: arXiv preprint 2024
-        
       - title: Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes
         link: "https://arxiv.org/abs/2106.02770"
         authors: Dongxia Wu, Tsuyoshi Idé, Aurélie Lozano, Georgios Kollias, Jiří Navrátil, Naoki Abe, Yi-An Ma, Rose Yu.
