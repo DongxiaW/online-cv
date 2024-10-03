@@ -24,7 +24,7 @@ sidebar:
     stack-overflow: 
     codewars:
     goodreads: 
-    pdf: https://drive.google.com/file/d/1ItSzYoCaexM-1yq65upbauKhApUE2A1X/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1RPHMj3hAuGXsY_OKQq9fP5AhMrFYVxyv/view?usp=sharing
 
     interests:
       - item: Viola (Solo, Quartet, Orchestra)
@@ -91,6 +91,11 @@ publications:
     title: Publications
     intro: 
     papers:
+      - title: "Diff-BBO: Diffusion-Based Inverse Modeling for Black-Box Optimization"
+        link: "https://arxiv.org/abs/2407.00610"
+        authors: Dongxia Wu, Nikki Lijing Kuang, Ruijia Niu, Yi-An Ma, Rose Yu.
+        conference: arXiv preprint 2024
+        
       - title: Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes
         link: "https://arxiv.org/abs/2106.02770"
         authors: Dongxia Wu, Tsuyoshi Idé, Aurélie Lozano, Georgios Kollias, Jiří Navrátil, Naoki Abe, Yi-An Ma, Rose Yu.
