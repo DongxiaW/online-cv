@@ -36,8 +36,9 @@ career-profile:
       I am a PhD student at [UC San Diego](https://ucsd.edu/) department of [Computer Science and Engineering](https://cse.ucsd.edu/), 
       advised by Prof. Rose Yu and Prof. Yian Ma. I received my Bachelor degree of science in Applied Math, 
       Physics, and Computer Sciences from the [University of Wisconsin-Madison](https://www.wisc.edu/) in 2020. 
-      My research primarily lies in Bayesian Deep Learning, Sequential Decision Making, Scientific Machine Learning, Spatiotemporal Modeling, and AI for Public Health. My works have been applied 
-      to forecasting spatiotemporal systems in epidemiology, traffic and climate science. The proposed approaches have been widely used in public health, traffic modeling, climate science, and drug design. For example, I designed [DeepGLEAM](https://arxiv.org/abs/2102.06684) for COVID-19 incident death forecasts. 
+      My research primarily lies in Bayesian Deep Learning, Sequential Decision Making, Scientific Machine Learning, Spatiotemporal Modeling, and AI for Public Health. 
+      The proposed approaches have been widely used in public health, traffic modeling, climate science, and drug design. For example, I designed [DeepGLEAM](https://arxiv.org/abs/2102.06684) 
+      for COVID-19 incident death forecasts. 
       It was ranked 1st for coverage in CDC forecasting hub and featured in [KPBS](https://www.kpbs.org/news/2020/oct/20/ucsd-researchers-build-database-predict-future-cov/#) and 
       [Jacobs School of Engineering](https://jacobsschool.ucsd.edu/news/release?id=3129).
 
