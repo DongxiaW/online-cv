@@ -97,7 +97,22 @@ publications:
       - title: "Diff-BBO: Diffusion-Based Inverse Modeling for Black-Box Optimization"
         link: "https://arxiv.org/abs/2407.00610"
         authors: Dongxia Wu, Nikki Lijing Kuang, Ruijia Niu, Yi-An Ma, Rose Yu.
-        conference: arXiv preprint 2024
+        conference: NeurIPS Workshop on Bayesian Decision-making and Uncertainty 2024
+
+      - title: "Functional-level Uncertainty Quantification for Calibrated Fine-tuning on LLMs"
+        link: "https://arxiv.org/abs/2410.06431"
+        authors: Ruijia Niu, Dongxia Wu, Rose Yu, Yi-An Ma.
+        conference: NeurIPS Workshop on Statistical Foundations of LLMs and Foundation Models 2024
+
+      - title: "MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning"
+        link: "https://arxiv.org/pdf/2410.11226"
+        authors: Peter Eckmann, Dongxia Wu, Germano Heinzelmann, Michael K Gilson, Rose Yu.
+        conference: NeurIPS Workshop on AI for New Drug Modalities 2024
+
+      - title: "GLEAM-AI: Neural Surrogate for Accelerated Epidemic Analytics and Forecasting"
+        link: "https://openreview.net/pdf?id=s4euyVmV9e"
+        authors: Mohammadmehdi Zahedi, Dongxia Wu, Jessica T. Davis, Yian Ma, Alessandro Vespignani, Rose Yu, Matteo Chinazzi.
+        conference: NeurIPS Workshop on Bayesian Decision-making and Uncertainty 2024
         
       - title: Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes
         link: "https://arxiv.org/abs/2106.02770"
@@ -118,16 +133,16 @@ publications:
         link: "https://arxiv.org/abs/2305.04392"
         authors: Dongxia Wu, Ruijia Niu, Matteo Chinazzi, Yian Ma, Rose Yu.
         conference: International Conference on Machine Learning (ICML) 2023
+
+      - title: Multi-fidelity Hierarchical Neural Processes
+        link: "https://arxiv.org/abs/2206.04872"
+        authors: Dongxia Wu, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu.
+        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2022
       
       - title: "DeepViFi: detecting oncoviral infections in cancer genomes using transformers"
         link: "https://dl.acm.org/doi/abs/10.1145/3535508.3545551"
         authors: Utkrisht Rajkumar, Sara Javadzadeh, Mihir Bafna, Dongxia Wu, Rose Yu, Jingbo Shang, Vineet Bafna.
         conference: "ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB) 2022"
-        
-      - title: Multi-fidelity Hierarchical Neural Processes
-        link: "https://arxiv.org/abs/2206.04872"
-        authors: Dongxia Wu, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu.
-        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2022
         
       - title: Quantifying Uncertainty in Deep Spatiotemporal Forecasting
         link: "https://arxiv.org/abs/2105.11982"
