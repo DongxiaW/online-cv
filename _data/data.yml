@@ -36,8 +36,8 @@ career-profile:
       I am a PhD student at [UC San Diego](https://ucsd.edu/) department of [Computer Science and Engineering](https://cse.ucsd.edu/), 
       advised by Prof. Rose Yu and Prof. Yian Ma. I received my Bachelor degree of science in Applied Math, 
       Physics, and Computer Sciences from the [University of Wisconsin-Madison](https://www.wisc.edu/) in 2020. 
-      My research primarily lies in Uncertainty Quantification, Bayesian Deep Learning, Spatiotemporal Modeling, Deep Generative Modeling, and Computational Epidemiology. My works have been applied 
-      to forecasting spatiotemporal systems in epidemiology, traffic and climate science. I designed [DeepGLEAM](https://arxiv.org/abs/2102.06684) for COVID-19 incident death forecasts. 
+      My research primarily lies in Bayesian Deep Learning, Sequential Decision Making, Scientific Machine Learning, Spatiotemporal Modeling, and AI for Public Health. My works have been applied 
+      to forecasting spatiotemporal systems in epidemiology, traffic and climate science. The proposed approaches have been widely used in public health, traffic modeling, climate science, and drug design. For example, I designed [DeepGLEAM](https://arxiv.org/abs/2102.06684) for COVID-19 incident death forecasts. 
       It was ranked 1st for coverage in CDC forecasting hub and featured in [KPBS](https://www.kpbs.org/news/2020/oct/20/ucsd-researchers-build-database-predict-future-cov/#) and 
       [Jacobs School of Engineering](https://jacobsschool.ucsd.edu/news/release?id=3129).
 
@@ -123,17 +123,17 @@ publications:
         link: "https://arxiv.org/abs/2402.18846"
         authors: Ruijia Niu, Dongxia Wu, Kai Kim, Yi-An Ma, Duncan Watson-Parris, Rose Yu.
         conference: International Conference on Machine Learning (ICML) 2024
+
+      - title: Disentangled Multi-Fidelity Deep Bayesian Active Learning
+        link: "https://arxiv.org/abs/2305.04392"
+        authors: Dongxia Wu, Ruijia Niu, Matteo Chinazzi, Yian Ma, Rose Yu.
+        conference: International Conference on Machine Learning (ICML) 2023
         
       - title: Deep Bayesian Active Learning for Accelerating Stochastic Simulation
         link: "https://arxiv.org/abs/2106.02770"
         authors: Dongxia Wu, Ruijia Niu, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu.
         conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023
         
-      - title: Disentangled Multi-Fidelity Deep Bayesian Active Learning
-        link: "https://arxiv.org/abs/2305.04392"
-        authors: Dongxia Wu, Ruijia Niu, Matteo Chinazzi, Yian Ma, Rose Yu.
-        conference: International Conference on Machine Learning (ICML) 2023
-
       - title: Multi-fidelity Hierarchical Neural Processes
         link: "https://arxiv.org/abs/2206.04872"
         authors: Dongxia Wu, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu.
