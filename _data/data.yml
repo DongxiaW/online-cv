@@ -114,6 +114,11 @@ publications:
         link: "https://openreview.net/pdf?id=s4euyVmV9e"
         authors: Mohammadmehdi Zahedi, Dongxia Wu, Jessica T. Davis, Yian Ma, Alessandro Vespignani, Rose Yu, Matteo Chinazzi.
         conference: NeurIPS Workshop on Bayesian Decision-making and Uncertainty 2024
+
+      - title: Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints
+        link: "https://arxiv.org/abs/2402.18012"
+        authors: Lingkai Kong, Yuanqi Du, Wenhao Mu, Kirill Neklyudov, Valentin De Bortoli, Dongxia Wu, Haorui Wang, Aaron Ferber, Yi-An Ma, Carla P. Gomes, Chao Zhang.
+        conference: International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
         
       - title: Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes
         link: "https://arxiv.org/abs/2106.02770"
